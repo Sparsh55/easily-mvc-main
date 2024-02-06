@@ -16,7 +16,7 @@ Your last visit will be displaying over the website.
 
 ### Tech Stack
 
-Nodejs , Express, Mongodb , EJS , javaScript , html, css, nodemailer, express-sessions and cookies.
+Nodejs , Express , EJS , javaScript , html, css, nodemailer, express-sessions and cookies.
 
 ### How to setup the project on local system
 
